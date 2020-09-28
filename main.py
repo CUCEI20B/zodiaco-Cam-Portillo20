@@ -23,4 +23,4 @@ if((mes==9) and (dia >=24) or (mes==10) and (dia<=23)): print ("Libra")
 
 if((mes==10) and (dia >=24) or (mes==11) and (dia<=22)): print ("Escorpion")
 
-if((mes==11) and (dia >=23) or (mes==12) and (dia<=21)): print ("Sagitarion")
+if((mes==11) and (dia >=23) or (mes==12) and (dia<=21)): print ("Sagitario")
